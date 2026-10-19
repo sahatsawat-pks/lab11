@@ -1,5 +1,5 @@
 VERSION=2.0
 PORT=8080
-API_KEY=abc
+API_KEY=xyz
 
-git commit -m "Refactor: Start work on V2 configuration"
+git commit -m "Hotfix: Corrected API key value"
